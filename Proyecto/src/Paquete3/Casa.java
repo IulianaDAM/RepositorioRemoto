@@ -6,7 +6,7 @@ public class Casa {
 		
 		
 		System.out.println("KLK");
-		
+		System.out.println("AAAAAAA");
 		
 
 	}
